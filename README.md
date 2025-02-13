@@ -1,1 +1,1 @@
-Different views..
+Different views
